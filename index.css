@@ -1,0 +1,196 @@
+@import url(https://db.onlinewebfonts.com/c/7f289fbe95c5cc66a4b70f3622249b87?family=Metropolis);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+        background-color: #ffff;
+}
+section{
+    background-color: #f5f5f8;
+}
+nav{
+    background-color: #134361;
+    padding: 0 100px 0 190px ;
+    /* position: fixed; */
+    width: 100%;
+    height: 10vh;
+}
+
+.links{
+        margin: -45px 0 0 850px; 
+}
+.links a{
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-decoration: none;
+            margin-left: 20px;
+}
+.links a:hover{
+                text-decoration: underline;
+}
+.main1{
+            /* width: 100%; */
+            /* height: ; */
+            padding: 37px;
+            margin-left: 50px;
+}
+.main1 img{
+                width: 950px;
+                height: 50vh;
+}
+
+.main2{
+    width: 100%;
+    background-image: linear-gradient(rgba(8, 8, 8, 0.5), rgba(24, 23, 23, 0.5)), url(images/IMG_1028.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    height: 90vh;
+    /* margin-bottom: 60px; */
+
+
+}
+.main2 h1{
+                font-size: 55px;
+                color: white;
+                padding-top: 250px;
+                text-align: center;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main2 p{
+        color: white;
+        font-size: 27px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-top: 10px;
+}
+
+.main3{
+            margin-left: 400px;
+            margin-bottom: 100px;
+            padding-top: 50px;
+}
+.main3 p{
+            margin-bottom: 15px;
+            color: #596275;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 17px;
+}
+
+main{
+        text-align: center;
+}
+main h2{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 24px;
+            margin-bottom: 20px;
+}
+main p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 17px;
+            margin-bottom: 27px;
+            color: #596275;
+}
+main a{
+            text-decoration: none;
+}
+.frontendDev{
+                cursor: pointer;
+                margin-bottom: 50px;
+                
+}
+.words:hover{
+    box-shadow:rgba(148, 146, 146, 0.2) 0 3px 5px 3px;         
+}
+.frontendDev h3{
+    /* cursor: pointer; */
+    color: #ff3f20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
+.frontendDev h4{
+    /* cursor: pointer; */
+    color: #ff3f20;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.words{
+    /* cursor: pointer; */
+    margin-left: 540px;
+    margin-top: -10px;
+    padding: 8px;
+    width: 270px;
+    height: 240px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.imagebottom{
+        margin-left: -5px;
+        margin-top: 5px;
+        padding-top: 25px;
+}
+.bom{
+            width: 270px;
+            margin-left: -9px;
+            padding-top: 6px;
+            /* background-color: black; */
+}
+.gen,.free{
+    text-decoration: none;
+    color: #ff3f20;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gen{
+    /* background-color: #134361; */
+    margin-left: 10px;
+    margin-top: -100px;
+    padding-bottom: -10px;
+}
+.free{
+    margin-left: 50px;
+}
+
+footer{
+            background-color: #134361;
+            width: 100%;
+            height: 120px;
+            display: flex;
+            justify-content: space-between;
+            padding: 20px 250px;
+}
+footer p{
+        color: white;
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.socialclass a{
+                text-decoration: none;
+                color: white;
+}
+
+.termclass a{
+    text-decoration: none;
+    color: white;
+}
+
+.termclass img{
+    width: 80px;
+    
+}
+.term2{
+        margin-top: 20px;
+}
+
+#learn1{
+            font-size: 17px;
+}
+footer p:hover{
+            text-decoration: underline;
+}
